@@ -313,7 +313,7 @@ export const experiences = [
    img: "10xLogo.png",
     role: "Mern Stack Developer",
     company: "10X Accademy",
-    date: "June 2022 - November 2023",
+    date: "May 2022 - December 2022",
     desc: "Designed the Mongo database schema to ensure efficient data storage and retrieval, thereby contributing to overall project performance optimization. Implemented frontend routes using React Router to enhance user experience through smooth navigation and dynamic content loading. Successfully developed Log In functionality with advanced security measures like password hashing, ensuring user data integrity and confidentiality. Integrated secure authentication tokens for backend security, safeguarding against unauthorized access. Established seamless frontend-backend connection using the Fetch API for efficient data exchange, enhancing application responsiveness.",
     skills: [
       "React.js",
@@ -511,7 +511,7 @@ export const projects = [
     asset,
     tags: ["React.js", "Node.js", "Express.js", "Mongo DB", "Javascript",],
     category: "android app",
-    
+
     // github: "https://github.com/rishavchanda/Job-finder-App",
     // webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
