@@ -511,8 +511,9 @@ export const projects = [
     asset,
     tags: ["React.js", "Node.js", "Express.js", "Mongo DB", "Javascript",],
     category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    
+    // github: "https://github.com/rishavchanda/Job-finder-App",
+    // webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
   {
     id: 4,
